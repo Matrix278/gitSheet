@@ -53,11 +53,10 @@ $ git config --global color.ui auto
 ```
 $ git init
 ```
-2. After using the git init command, link the local repository to an empty GitHub repository using the following command:
+2. After using the git init command, link the local repository to an empty GitHub repository using the following command(turn an existing directory into a Git repository):
 ```
 $ git remote add origin [url]
 ```
-Turn an existing directory into a Git repository
 3. Clone (download) a repository that already exists on GitHub, including all of the files, branches, and commits
 ```
 $ git clone [url]
