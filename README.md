@@ -2,13 +2,13 @@
 
 [Git](http://git-scm.com) - is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency
 
-## - [Configure tooling](#configure-tooling)
-## - [Create repositories](#create-repositories)
-## - [The .gitignore file](#the-gitignore-file)
-## - [Synchronize changes](#synchronize-changes)
-## - [Branches](#branches)
-## - [Make changes](#make-changes)
-## - [Redo commits](#redo-commits)
+## 1. [Configure tooling](#configure-tooling)
+## 2. [Create repositories](#create-repositories)
+## 3. [The .gitignore file](#the-gitignore-file)
+## 4. [Synchronize changes](#synchronize-changes)
+## 5. [Branches](#branches)
+## 6. [Make changes](#make-changes)
+## 7. [Redo commits](#redo-commits)
 
 ## Glossary
 
@@ -110,7 +110,7 @@ $ git merge [branch]
 ```
 $ git branch -d [branch-name]
 ```
-6. Deletes the specified branch from remore repository and local
+6. Deletes the specified branch from remote repository and local
 ```
 $ git branch -D [branch-name]
 ```
